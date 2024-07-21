@@ -1,0 +1,7 @@
+.landing-container {
+  .feature-section {
+    .feature-item:nth-child(even) {
+      direction: rtl;
+    }
+  }
+}
